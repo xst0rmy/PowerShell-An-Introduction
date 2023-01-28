@@ -27,13 +27,13 @@ Prior to today, I didn't know PowerShell had such great potentials. I want to sh
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%204.png)
 
-*The above command produced only commands with "SystemLanguage"
+> **The above command produced only commands with "SystemLanguage"
 
 > **If you ever get curious on what a PowerShell command is meant to do, use the "get-help' command as shown below**
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%205.png)
 
-*You will most likely be presented with that question after inputing the "get-help" command. That gives you the opprtunity to update your PowerShell help files with the latest additions. so go ahead and input "y"
+> **You will most likely be presented with that question after inputing the "get-help" command. That gives you the opprtunity to update your PowerShell help files with the latest additions. so go ahead and input "y"
 
 > **The "get-help" option gives an elaborate description of a command and the various ways it can be used in a syntax. I'll explain further what the "Aliase" means shortly. The reference option underlined in the image is a path to getting more information from the web in a GUI (Graphical User Interface) format. Running that command on PowerShell opens up your browser and shows you more information on that command**  
 
