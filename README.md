@@ -1,4 +1,5 @@
 # PowerShell-An-Introduction
+
 Prior to today, I didn't know PowerShell had such great potentials. I want to share some cool stuffs about PowerShell... Hopefully, you learn to love PowerShell as am learning to. I will also create other PowerShell repositories about other features I learn. 
 
 > **First things first, Always run PowerShell as Administrator. It gives you an unrestricted access to all PowerShell funtionalities, so why not?**
@@ -21,7 +22,7 @@ Prior to today, I didn't know PowerShell had such great potentials. I want to sh
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%203.png)
 
-*Remember what I wrote about using the Tab button on keyboard to auto-complete a command. With the image above, you wouldn't want to type only the verb command and use the tab key as there so many similar verb command but you can do that if you're sure the verb command doesn't have so many similar commands.
+> **Remember what I wrote about using the Tab button on keyboard to auto-complete a command. With the image above, you wouldn't want to type only the verb command and use the tab key as there so many similar verb command but you can do that if you're sure the verb command doesn't have so many similar commands.
 
 > **Using the "get-command" is not entirely advisable to use if your aim is not to go through all the available commands you can use in PowerShell. A better option is to call up a more specific command with the "get-command" command**
 
