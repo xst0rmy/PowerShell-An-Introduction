@@ -17,9 +17,56 @@ Prior to today, I didn't know PowerShell had such great potentials. I want to sh
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%202.png)
 
-> **It produced sooo many commands as seen below. The scrolling bar at the right shows how much more commands there are if you keep scrolling down.  
+> **It produced sooo many commands as seen below. The scrolling bar at the right shows how much more commands there are if you keep scrolling down.**  
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%203.png)
+
+*Remember what I wrote about using the Tab button on keyboard to auto-complete a command. With the image above, you wouldn't want to type only the verb command and use the tab key as there so many similar verb command but you can do that if you're sure the verb command doesn't have so many similar commands.
+
+> **Using the "get-command" is not entirely advisable to use if your aim is not to go through all the available commands you can use in PowerShell. A better option is to call up a more specific command with the "get-command" command**
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%204.png)
+
+*The above command produced only commands with "SystemLanguage"
+
+> **If you ever get curious on what a PowerShell command is meant to do, use the "get-help' command as shown below**
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%205.png)
+
+*You will most likely be presented with that question after inputing the "get-help" command. That gives you the opprtunity to update your PowerShell help files with the latest additions. so go ahead and input "y"
+
+> **The "get-help" option gives an elaborate description of a command and the various ways it can be used in a syntax. I'll explain further what the "Aliase" means shortly. The reference option underlined in the image is a path to getting more information from the web in a GUI (Graphical User Interface) format. Running that command on PowerShell opens up your browser and shows you more information on that command**  
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%206.png)
+
+*What are Aliases? Aliases are cfommands that can be run on PowerShell but they don't follow the verb-noun rule. In a way, they arw abbreviations of a command. If you are familiar with the basic either Windows Command Prompt or Linux Terminal command, some of the basic commands used on those terminals can be found as aliases on PowerShell.
+
+> **In the image below, "cls" is an alaise to clear-host which clears your screen**
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%207.png)
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%208.png)
+
+> **Wondering what an alaise means? Use the "get-alaise" command**
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%209.png)
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2010.png)
+
+> **Wondering what other aliase is at your disposal?**
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2011.png)
+
+> **Use the "grt-process" command to see a comprehensive list of all runnung processes of your PC**
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2012.png)
+
+> **Want to see a particular running process information?**
+
+
+
+
+
 
 
 
