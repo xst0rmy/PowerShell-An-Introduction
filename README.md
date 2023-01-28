@@ -48,7 +48,7 @@ Prior to today, I didn't know PowerShell had such great potentials. I want to sh
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%208.png)
 
-> **Wondering what an alaise means? Use the "get-alaise" command**
+> **Wondering what an Alaise means? Use the "get-alaise" command**
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%209.png)
 
@@ -96,6 +96,8 @@ Prior to today, I didn't know PowerShell had such great potentials. I want to sh
 > **At the beginning of this repo, you read about the "start-transcript" command. This command is similar to the "get-history" command, but it's very much detailed to include the results each command you used provided and it is stored in your document folder on your PC.**
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2021.png)
+
+> **I opened the folder and  if you remember correctly the second command I ran (if you don't, scroll up to check) which is the "get-command" is displayed first in the folder. The first command I ran in this session, the "start-transcript" command isn't displayed here because it started the transciption process**
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2022.png)
 
