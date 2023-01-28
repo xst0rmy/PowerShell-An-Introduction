@@ -61,13 +61,42 @@ Prior to today, I didn't know PowerShell had such great potentials. I want to sh
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2012.png)
 
-> **Want to see a particular running process information?**
+> **To view a specific process, use the command in the image below
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2013.png)
 
 
+> **The commands in the syntax below gets the information about "system" and pipes "|" it to the "get-member" command which means it takes the result from the "get-process" over to the "get-member" command to display the results shown in the image below. The result shows various methods (different things you can do with the command) and properties (description of the command), various associated aliases and other vital information regarding how to efficiently use the command.**
 
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2014.png)
 
+> **In the image below,I made a vital omission in the first two command while trying to display the properties of a process. At first, I didn't realise ommiting the asterisks sign * was the problem until i figured it out as shown in the image below**
 
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2015.png)
 
+> **What do you know about Variables in programming? Well, I know variables as a basic explanation is used to assigned values to an object.**
+
+> **In PowerShell, the dollar sign $ is used to represent a variable and a value is assigned to that variable object with an equal to sign "=" as shown in the image below**
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2016.png)
+
+> **In the image below, I assigned "$storm" to represent the  "get-process system" command which means that in the future, whenever I write out $storm, PowerShell will understand that I am asking for the process of system to be displayed.**
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2017.png)
+
+> **I went ahead to input other commands using the assigned variable in my previous example and shows the result in the image below**
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2018.png)
+
+> **Curious with what commands you've used all through a session? Use the "get-history" command to see a complete list of all commands you typed on your keyboard so far. Here is an example in the image below
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2019.png)
+
+> **At the beginning of this repo, you read about the "start-transcript" command. This command is similar to the "get-history" command, but it's very much detailed to include the results each command you used provided and it is stored in your document folder on your PC.
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2021.png)
+
+![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2022.png)
 
 
 
