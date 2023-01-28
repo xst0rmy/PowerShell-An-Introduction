@@ -22,25 +22,25 @@ Prior to today, I didn't know PowerShell had such great potentials. I want to sh
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%203.png)
 
-> **Remember what I wrote about using the Tab button on keyboard to auto-complete a command. With the image above, you wouldn't want to type only the verb command and use the tab key as there so many similar verb command but you can do that if you're sure the verb command doesn't have so many similar commands.
+> **Remember what I wrote about using the Tab button on keyboard to auto-complete a command. With the image above, you wouldn't want to type only the verb command and use the tab key as there so many similar verb command but you can do that if you're sure the verb command doesn't have so many similar commands.**
 
 > **Using the "get-command" is not entirely advisable to use if your aim is not to go through all the available commands you can use in PowerShell. A better option is to call up a more specific command with the "get-command" command**
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%204.png)
 
-> **The above command produced only commands with "SystemLanguage"
+> **The above command produced only commands with "SystemLanguage"**
 
 > **If you ever get curious on what a PowerShell command is meant to do, use the "get-help' command as shown below**
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%205.png)
 
-> **You will most likely be presented with that question after inputing the "get-help" command. That gives you the opprtunity to update your PowerShell help files with the latest additions. so go ahead and input "y"
+> **You will most likely be presented with that question after inputing the "get-help" command. That gives you the opprtunity to update your PowerShell help files with the latest additions. so go ahead and input "y"**
 
 > **The "get-help" option gives an elaborate description of a command and the various ways it can be used in a syntax. I'll explain further what the "Aliase" means shortly. The reference option underlined in the image is a path to getting more information from the web in a GUI (Graphical User Interface) format. Running that command on PowerShell opens up your browser and shows you more information on that command**  
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%206.png)
 
-*What are Aliases? Aliases are cfommands that can be run on PowerShell but they don't follow the verb-noun rule. In a way, they arw abbreviations of a command. If you are familiar with the basic either Windows Command Prompt or Linux Terminal command, some of the basic commands used on those terminals can be found as aliases on PowerShell.
+> **What are Aliases? Aliases are cfommands that can be run on PowerShell but they don't follow the verb-noun rule. In a way, they arw abbreviations of a command. If you are familiar with the basic either Windows Command Prompt or Linux Terminal command, some of the basic commands used on those terminals can be found as aliases on PowerShell.**
 
 > **In the image below, "cls" is an alaise to clear-host which clears your screen**
 
@@ -62,7 +62,7 @@ Prior to today, I didn't know PowerShell had such great potentials. I want to sh
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2012.png)
 
-> **To view a specific process, use the command in the image below
+> **To view a specific process, use the command in the image below**
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2013.png)
 
@@ -89,11 +89,11 @@ Prior to today, I didn't know PowerShell had such great potentials. I want to sh
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2018.png)
 
-> **Curious with what commands you've used all through a session? Use the "get-history" command to see a complete list of all commands you typed on your keyboard so far. Here is an example in the image below
+> **Curious with what commands you've used all through a session? Use the "get-history" command to see a complete list of all commands you typed on your keyboard so far. Here is an example in the image below**
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2019.png)
 
-> **At the beginning of this repo, you read about the "start-transcript" command. This command is similar to the "get-history" command, but it's very much detailed to include the results each command you used provided and it is stored in your document folder on your PC.
+> **At the beginning of this repo, you read about the "start-transcript" command. This command is similar to the "get-history" command, but it's very much detailed to include the results each command you used provided and it is stored in your document folder on your PC.**
 
 ![](https://github.com/xst0rmy/PowerShell-An-Introduction/blob/main/Images/pshell%2021.png)
 
